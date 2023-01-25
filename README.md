@@ -1,2 +1,0 @@
-# small-talkdemo
-small-talkdemo
