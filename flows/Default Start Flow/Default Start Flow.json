@@ -18,7 +18,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "Good morning! Hope you are well today. \nI'm the virtual small talk agent. I can tell you a joke, tell you about myself or answer questions. You can also tell me about yourself or give me feedback.\nWhat can I help you with?", "Good morning! Hope your day is going well!\nI'm the virtual small talk agent. I can tell you a joke, tell you about myself or answer questions. You can also tell me about yourself or give me feedback.\nWhat can I help you with?", "And a good morning to you!\nI'm the virtual small talk agent. I can tell you a joke, tell you about myself or answer questions. You can also tell me about yourself or give me feedback.\nWhat can I help you with?" ]
+          "text": [ "Good morning! Hope you are well today. \nI'm the virtual small talk agent. I can tell you a joke, tell you about myself or answer questions. You can also tell me about yourself or give me feedback.\nWhat can I help you with?", "Good morning! Hope your day is going well!\nI'm the virtual small talk agent. I can tell you a joke, tell you about myself or answer questions. You can also tell me about yourself or give me feedback.\nWhat can I help you with?", "And a good morning to you!\nI'm the virtual small talk agent. I can tell you a joke, tell you about myself or answer questions. You can also tell me about yourself or give me feedback.\nWhat can I help you with?", "Yes, good morning dear" ]
         },
         "languageCode": "en"
       } ]

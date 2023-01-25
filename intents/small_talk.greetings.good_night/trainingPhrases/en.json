@@ -25,9 +25,7 @@
       "text": "good night see you ",
       "auto": true
     }, {
-      "text": "tomorrow",
-      "parameterId": "date-time",
-      "auto": true
+      "text": "tomorrow"
     } ],
     "repeatCount": 1,
     "languageCode": "en"
